@@ -1,0 +1,6 @@
+hash: aa1af26f4fd9c3cd10952914af0a44aff08f447b567bf52b0ec78b84cf0e8e11
+updated: 2018-01-11T18:34:44.235081+01:00
+imports:
+- name: github.com/sqp/go-xmlrpc
+  version: 81e73c646dd43af124de8c093d0e080f63248070
+testImports: []
