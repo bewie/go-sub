@@ -8,7 +8,7 @@ import (
 	"os"
 	"reflect"
 	// TODO review this include...
-	"github.com/sqp/xmlrpc"
+	xmlrpc "github.com/mattn/go-xmlrpc"
 )
 
 const (
