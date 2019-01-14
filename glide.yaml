@@ -1,3 +1,0 @@
-package: gosub
-import:
-- package: github.com/sqp/go-xmlrpc
