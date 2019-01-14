@@ -11,7 +11,7 @@ import (
 	"regexp"
 	"strings"
 
-	"./downloader"
+	"github.com/bewie/go-sub/downloader"
 )
 
 func main() {
